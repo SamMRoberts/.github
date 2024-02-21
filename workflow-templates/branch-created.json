@@ -1,0 +1,13 @@
+{
+    "name": "Branch Created Workflow",
+    "description": "Branch Created starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
